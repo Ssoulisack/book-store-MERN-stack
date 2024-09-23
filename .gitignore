@@ -1,0 +1,5 @@
+# Ignore the node_modules folder inside the backend directory
+backend/node_modules/
+
+# Ignore the config.js file inside the backend directory
+backend/config.js
